@@ -27,10 +27,7 @@ Where:
 - **Width (W)** = Vertical side
 
 ## 📸 Preview
-
-```
-screenshots/preview.png
-```
+![Preview](screenshots/preview.png)
 
 ## 🛠️ Technologies Used
 
