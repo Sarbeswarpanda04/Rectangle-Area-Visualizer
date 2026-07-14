@@ -55,7 +55,7 @@ rectangle-area-visualizer/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/rectangle-area-visualizer.git
+git clone https://github.com/Sarbeswarpanda04/Rectangle-Area-Visualizer.git
 ```
 
 2. Open the project folder.
